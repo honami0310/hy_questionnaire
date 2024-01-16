@@ -1,0 +1,21 @@
+@charset "utf-8";
+
+.space30{
+    height: 30px;
+}
+
+#dataTable{
+    margin: 10px;
+    padding: 10px;
+    background-color: #d1d1d1
+}
+.top{
+    background-color: #757575
+}
+td {
+    border-bottom: 1px solid #d1d1d1;
+    white-space: nowrap; 
+    padding: auto 5px;
+    background-color: #fff
+
+}
